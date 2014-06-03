@@ -1,0 +1,23 @@
+{
+  "name": "grappler-logger-http",
+  "version": "0.1.0",
+  "description": "HTTP logger plugin for grappler",
+  "main": "index.js",
+  "scripts": {
+    "test": "NODE_ENV=test ./node_modules/.bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/grappler-ci/grappler-logger-http.git"
+  },
+  "keywords": [
+    "grappler",
+    "logger"
+  ],
+  "author": "Cameron Bytheway <bytheway.cameron@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/grappler-ci/grappler-logger-http/issues"
+  },
+  "homepage": "https://github.com/grappler-ci/grappler-logger-http"
+}
